@@ -30,7 +30,7 @@ I'm a social person, enjoy working around amazing people and the following soft 
 
 ## :eyes: Interesting repositories 
 
-ChurchApp and IbizaApp are multiplatform mobile applications developed in React Native using Expo. IbizaApp is a online liquor store App, currenly is avaliable in the Play Store as "La Cava de Chulo" (name of the client's bussines). ChurchApp is an informative app model for a religious community where they can post events, preaches and news. 
+ChurchApp and IbizaApp are multiplatform mobile applications developed in React Native using Expo. IbizaApp is a online liquor store App. ChurchApp is an informative app model for a religious community where they can see the posted events, preaches and news. 
 
 JavaFirebaseClient and CupiCampeonato were academic projects created using Java. The first one uses CloudFirestore service for a No-SQL realtime database, and the second one uses JasperReports to generate PDF reports based on SQL queries
 
