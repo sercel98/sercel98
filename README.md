@@ -34,7 +34,7 @@ ChurchApp and IbizaApp are multiplatform mobile applications developed in React 
 
 JavaFirebaseClient and CupiCampeonato were academic projects created using Java. The first one uses CloudFirestore service for a No-SQL realtime database, and the second one uses JasperReports to generate PDF reports based on SQL queries
 
-Kansy_Classroom_API and Auth_Example were ruby on rails projects where I consume different Google APIs such as Google Classroom API and Google Auth.
+Kansy_Classroom_API and Auth_Example were ruby on rails projects where I consume different Google APIs such as Google Classroom API and Google Auth. Also, Foodlog is a nutritional log where a persona can store the history of the food they've consume along with the nutritional information such as carbs, proteins and fats. 
 
 
 ## :speech_balloon: Contact
